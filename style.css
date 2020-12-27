@@ -1,0 +1,71 @@
+.header {
+    width: 100%;
+    display: inline-flex;
+}
+
+.img-block{
+    padding: 2%;
+    margin-left: 2%;
+    width: 25%;
+}
+.image-logo {
+    height: 23px;
+
+}
+.inline-menu{
+    display: contents;
+   
+    
+}
+
+.phone {
+    display: inline-flex;
+    padding: 30px;
+    padding-right: 0;
+    width: 10%;
+    
+}
+
+.phone-logo {
+    width: 25px;
+}
+
+.Phone-number {
+    color: rgb(49 122 255)
+}
+
+.menu-bar{
+    
+    padding: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 60%;
+    
+}
+
+.menu {
+    text-decoration: none;
+    padding-right: 30px;
+
+}
+
+.aply {
+    padding: 30px;
+}
+
+.classes {}
+
+.newbootton {}
+
+.payment {}
+
+.picture {}
+.button{
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
