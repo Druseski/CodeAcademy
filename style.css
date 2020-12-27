@@ -1,71 +1,62 @@
-.header {
+
+.logo{
     width: 100%;
-    display: inline-flex;
 }
+.header{
+ width: 100%;
+ padding: 23px !important;
+}
+.phonelogo{
+    width: 100%;
+}
+.phonenumber{
+    width: 100%;
+    padding-left: 0 !important;
+}
+.menu{
 
-.img-block{
-    padding: 2%;
-    margin-left: 2%;
-    width: 25%;
 }
-.image-logo {
-    height: 23px;
+.pricebox{
 
 }
-.inline-menu{
-    display: contents;
-   
+.apply{
+
     
 }
-
-.phone {
-    display: inline-flex;
-    padding: 30px;
-    padding-right: 0;
-    width: 10%;
-    
-}
-
-.phone-logo {
-    width: 25px;
-}
-
-.Phone-number {
-    color: rgb(49 122 255)
-}
-
-.menu-bar{
-    
-    padding: 30px;
-    padding-left: 0;
-    padding-right: 0;
-    width: 60%;
-    
-}
-
-.menu {
-    text-decoration: none;
-    padding-right: 30px;
+.mainheader{
 
 }
+.mainpara{
 
-.aply {
-    padding: 30px;
 }
+.numbers{
 
-.classes {}
+    }
+.inner{
 
-.newbootton {}
-
-.payment {}
-
-.picture {}
-.button{
-    
 }
+.outter{
 
-*{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
+}
+.num{
+
+  
+}
+.novobutton{
+
+}
+.asceptance{
+
+}
+.price{
+
+}
+.image{
+
+}
+.bold{
+
+}
+.paragraphnum{
+
 }
