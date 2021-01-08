@@ -4,28 +4,25 @@
 }
 
 .logo {
-    width: 100%;
+    height: 40px;
+    padding: 10px 20px 10px 0px;
+    margin-left: 3em !important;
 
 
 }
 
 .header {
-    width: auto;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     padding-top: 30px;
 }
 
-.phonelogoContainer {
-    float: left;
-    position: absolute;
- 
-}
+
 
 .phonelogo {
     height: 22px;
 
-    margin-right: 10px;
 }
 
 .phonenumber {
@@ -33,7 +30,7 @@
     padding-top: 11px;
     color: #0181ff;
     font-size: 18px;
-    width: 100%;
+    
 }
 
 .menu {
@@ -62,6 +59,7 @@
 .mainheader {
     font-weight: 600;
     color: #142433;
+    pa
 }
 
 .mainpara {
@@ -144,6 +142,7 @@
 .main {
     background: linear-gradient(180deg, white, #f4f8fd);
     padding-bottom: 129px;
+    padding-left: 50px !important;
 }
 
 .price {
